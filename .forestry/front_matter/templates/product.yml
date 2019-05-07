@@ -33,3 +33,5 @@ fields:
   config:
     required: false
   label: product_url
+pages:
+- content/products/blue-cheese.md
